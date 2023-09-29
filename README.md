@@ -2,6 +2,9 @@
 
 This is the third homework of the NLP 2022 course at Sapienza University of Rome.
 
+# Results:
+The file report.pdf contains a report of my project and its results.
+
 #### Instructor
 
 * **Roberto Navigli**
